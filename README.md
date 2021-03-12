@@ -4,9 +4,6 @@
 After 15 years in various IT roles, I am exited to start my web development journey!
 </p>
 
-<p align="center">
-<a href="https://www.castaldi.dev"><img height="30" src="https://github.com/ncastaldi/ncastaldi/blob/main/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nathancastaldi/"><img height="30" src="https://github.com/ncastaldi/ncastaldi/blob/main/images/icons/linkedin-in-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/ncastaldi"><img height="30" src="https://github.com/ncastaldi/ncastaldi/blob/main/images/icons/github-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:nathan@castaldi.dev"><img height="30" src="https://github.com/ncastaldi/ncastaldi/blob/main/images/icons/envelope-regular.svg"></a>&nbsp;&nbsp;
-</p>
+[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncastaldi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastaldi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
